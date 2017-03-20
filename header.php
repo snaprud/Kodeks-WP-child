@@ -31,20 +31,20 @@
 
             <header id="masthead" class="site-header" role="banner">
                 
-                <div class="small-12">
+                <div class="small-12 large-8 columns small-centered">
                     <img src="http://placehold.it/900x300.jpg" />
                 </div>
 
                 <div class="small-11 large-12 row">
 
-                    <div class="site-branding small-5 medium-3 columns">
+                    <!-- <div class="site-branding small-5 medium-3 columns">
                         <a href="<?php echo site_url(); ?>">
                             <img src="<?php bloginfo('template_url'); ?>/images/logo.png">
                         </a>
-                    </div><!-- .site-branding -->
+                    </div> .site-branding -->
 
 
-                    <nav id="site-navigation" class="main-navigation small-7 medium-9 columns" role="navigation">
+                    <nav id="site-navigation" class="main-navigation small-7 medium-9 columns small-centered" role="navigation">
 
 <!--
                         <div class="searchWrapper">
